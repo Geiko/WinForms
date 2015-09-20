@@ -1,0 +1,9 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms17\WinForms17\bin\Debug\WinForms17.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms17\WinForms17\bin\Debug\WinForms17.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms17\WinForms17\bin\Debug\WinForms17.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms17\WinForms17\obj\Debug\WinForms17.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms17\WinForms17\obj\Debug\WinForms17.Properties.Resources.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms17\WinForms17\obj\Debug\WinForms17.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms17\WinForms17\obj\Debug\WinForms17.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms17\WinForms17\obj\Debug\WinForms17.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms17\WinForms17\obj\Debug\WinForms17.Form1.resources
