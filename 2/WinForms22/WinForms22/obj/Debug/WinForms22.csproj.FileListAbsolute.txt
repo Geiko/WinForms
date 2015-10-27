@@ -1,0 +1,9 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms22\WinForms22\bin\Debug\WinForms22.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms22\WinForms22\bin\Debug\WinForms22.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms22\WinForms22\bin\Debug\WinForms22.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms22\WinForms22\obj\Debug\WinForms22.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms22\WinForms22\obj\Debug\WinForms22.Form1.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms22\WinForms22\obj\Debug\WinForms22.Properties.Resources.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms22\WinForms22\obj\Debug\WinForms22.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms22\WinForms22\obj\Debug\WinForms22.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms22\WinForms22\obj\Debug\WinForms22.pdb

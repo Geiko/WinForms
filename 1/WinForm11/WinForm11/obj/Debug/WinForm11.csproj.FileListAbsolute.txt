@@ -1,0 +1,8 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForm11\WinForm11\bin\Debug\WinForm11.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForm11\WinForm11\bin\Debug\WinForm11.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForm11\WinForm11\bin\Debug\WinForm11.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForm11\WinForm11\obj\Debug\WinForm11.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForm11\WinForm11\obj\Debug\geiko.WinForm11.Properties.Resources.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForm11\WinForm11\obj\Debug\WinForm11.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForm11\WinForm11\obj\Debug\WinForm11.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForm11\WinForm11\obj\Debug\WinForm11.pdb

@@ -1,0 +1,9 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms53\WinForms53\bin\Debug\WinForms53.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms53\WinForms53\bin\Debug\WinForms53.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms53\WinForms53\bin\Debug\WinForms53.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms53\WinForms53\obj\Debug\WinForms53.Form1.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms53\WinForms53\obj\Debug\WinForms53.Properties.Resources.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms53\WinForms53\obj\Debug\WinForms53.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms53\WinForms53\obj\Debug\WinForms53.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms53\WinForms53\obj\Debug\WinForms53.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms53\WinForms53\obj\Debug\WinForms53.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31withEvent\WinForms31withEvent\bin\Debug\WinForms31withEvent.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31withEvent\WinForms31withEvent\obj\Debug\WinForms31withEvent.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31withEvent\WinForms31withEvent\obj\Debug\WinForms31withEvent.Properties.Resources.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31withEvent\WinForms31withEvent\obj\Debug\WinForms31withEvent.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31withEvent\WinForms31withEvent\bin\Debug\WinForms31withEvent.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31withEvent\WinForms31withEvent\bin\Debug\WinForms31withEvent.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31withEvent\WinForms31withEvent\obj\Debug\WinForms31withEvent.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31withEvent\WinForms31withEvent\obj\Debug\WinForms31withEvent.pdb

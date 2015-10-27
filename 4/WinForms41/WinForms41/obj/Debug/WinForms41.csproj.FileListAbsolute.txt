@@ -1,0 +1,9 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\4\WinForms41\WinForms41\bin\Debug\WinForms41.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\4\WinForms41\WinForms41\obj\Debug\WinForms41.Properties.Resources.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\4\WinForms41\WinForms41\obj\Debug\WinForms41.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\4\WinForms41\WinForms41\bin\Debug\WinForms41.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\4\WinForms41\WinForms41\bin\Debug\WinForms41.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\4\WinForms41\WinForms41\obj\Debug\WinForms41.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\4\WinForms41\WinForms41\obj\Debug\WinForms41.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\4\WinForms41\WinForms41\obj\Debug\WinForms41.ElementaryEditor.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\4\WinForms41\WinForms41\obj\Debug\WinForms41.csprojResolveAssemblyReference.cache

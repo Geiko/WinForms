@@ -1,0 +1,9 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms21\WinForms21\bin\Debug\WinForms21.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms21\WinForms21\bin\Debug\WinForms21.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms21\WinForms21\bin\Debug\WinForms21.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms21\WinForms21\obj\Debug\WinForms21.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms21\WinForms21\obj\Debug\WinForms21.Form1.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms21\WinForms21\obj\Debug\WinForms21.Properties.Resources.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms21\WinForms21\obj\Debug\WinForms21.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms21\WinForms21\obj\Debug\WinForms21.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WinForms21\WinForms21\obj\Debug\WinForms21.pdb

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Persons>
+  <Person>
+    <FirstName>Vasya</FirstName>
+    <LastName>Pupkin</LastName>
+    <EMail>g@h.jkj</EMail>
+    <Phone>4434-55-55</Phone>
+  </Person>
+  <Person>
+    <FirstName>Tanya</FirstName>
+    <LastName>Fishman</LastName>
+    <EMail>hdhd@hd.ffd</EMail>
+    <Phone>(88)98-55-544</Phone>
+  </Person>
+  <Person>
+    <FirstName>Katya</FirstName>
+    <LastName>Rodriges</LastName>
+    <EMail>dh@kjh.def</EMail>
+    <Phone>+0650958-56-55-4</Phone>
+  </Person>
+  <Person>
+    <FirstName>Masha</FirstName>
+    <LastName>Kim</LastName>
+    <EMail>jgf@kjh.rfg</EMail>
+    <Phone>46-467-76</Phone>
+  </Person>
+  <Person>
+    <FirstName>Bob</FirstName>
+    <LastName>Reigan</LastName>
+    <EMail>t@t.ff</EMail>
+    <Phone>+0403 -65-5</Phone>
+  </Person>
+  <Person>
+    <FirstName>Alex</FirstName>
+    <LastName>Pushkin</LastName>
+    <EMail>f@f.ff</EMail>
+    <Phone>(6)87-44-22</Phone>
+  </Person>
+  <Person>
+    <FirstName>Mikle</FirstName>
+    <LastName>Bulgakov</LastName>
+    <EMail>hh@fg.ddf</EMail>
+    <Phone>+098-456-65-43</Phone>
+  </Person>
+</Persons>

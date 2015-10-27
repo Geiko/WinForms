@@ -1,0 +1,31 @@
+List of Persons
+{
+     Vasya
+     Pupkin
+     g@h.jkj
+     4434-55-55
+}
+{
+     Bob
+     Reigan
+     t@t.ff
+     +0403 -65-5
+}
+{
+     Tanya
+     Fishman
+     hdhd@hd.ffd
+     (88)98-55-544
+}
+{
+     Katya
+     Rodriges
+     dh@kjh.def
+     +0650958-56-55-4
+}
+{
+     Masha
+     Kim
+     jgf@kjh.rfg
+     46-467-76
+}

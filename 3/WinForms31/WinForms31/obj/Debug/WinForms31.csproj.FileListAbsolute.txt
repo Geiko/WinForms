@@ -1,0 +1,10 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31\WinForms31\bin\Debug\WinForms31.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31\WinForms31\bin\Debug\WinForms31.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31\WinForms31\bin\Debug\WinForms31.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31\WinForms31\obj\Debug\WinForms31.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31\WinForms31\obj\Debug\WinForms31.Form1.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31\WinForms31\obj\Debug\WinForms31.Properties.Resources.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31\WinForms31\obj\Debug\WinForms31.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31\WinForms31\obj\Debug\WinForms31.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31\WinForms31\obj\Debug\WinForms31.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\3\WinForms31\WinForms31\obj\Debug\WinForms31.Form2.resources

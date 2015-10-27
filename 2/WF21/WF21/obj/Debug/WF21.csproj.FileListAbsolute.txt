@@ -1,0 +1,9 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WF21\WF21\bin\Debug\WF21.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WF21\WF21\bin\Debug\WF21.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WF21\WF21\bin\Debug\WF21.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WF21\WF21\obj\Debug\WF21.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WF21\WF21\obj\Debug\WF21.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WF21\WF21\obj\Debug\WF21.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WF21\WF21\obj\Debug\WF21.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WF21\WF21\obj\Debug\geiko.WF21.Form1.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\2\WF21\WF21\obj\Debug\geiko.WF21.Properties.Resources.resources

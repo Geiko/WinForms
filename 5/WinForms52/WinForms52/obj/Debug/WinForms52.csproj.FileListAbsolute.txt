@@ -1,0 +1,9 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms52\WinForms52\bin\Debug\WinForms52.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms52\WinForms52\bin\Debug\WinForms52.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms52\WinForms52\bin\Debug\WinForms52.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms52\WinForms52\obj\Debug\WinForms52.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms52\WinForms52\obj\Debug\WinForms52.Form1.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms52\WinForms52\obj\Debug\WinForms52.Properties.Resources.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms52\WinForms52\obj\Debug\WinForms52.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms52\WinForms52\obj\Debug\WinForms52.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\5\WinForms52\WinForms52\obj\Debug\WinForms52.pdb

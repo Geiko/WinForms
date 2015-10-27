@@ -1,0 +1,8 @@
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms14\WinForms14\bin\Debug\WinForms14.exe.config
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms14\WinForms14\bin\Debug\WinForms14.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms14\WinForms14\bin\Debug\WinForms14.pdb
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms14\WinForms14\obj\Debug\WinForms14.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms14\WinForms14\obj\Debug\WinForms14.Properties.Resources.resources
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms14\WinForms14\obj\Debug\WinForms14.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms14\WinForms14\obj\Debug\WinForms14.exe
+D:\My\IT\ШАГ\10 WinForms\HomeWork\1\WinForms14\WinForms14\obj\Debug\WinForms14.pdb
